@@ -2,3 +2,4 @@
 npm i <br>
 npm run start <br>
 npm run build
+npm run test not 
